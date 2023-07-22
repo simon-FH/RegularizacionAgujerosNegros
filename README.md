@@ -1,1 +1,1 @@
-# RegularizacionAgujerosNegros
+# Regularización Agujeros Negros
